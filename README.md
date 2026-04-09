@@ -15,3 +15,4 @@ FRIDAY is a smart voice assistant built using React that allows users to interac
 - Speech Recognition
 - Google API
 - Wikipedia API
+
